@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cbe-capital",
+    "name": "CBE Capital Investment Bank S.C.",
+    "type": "Investment Bank",
+    "licensedDate": "2025-03-21",
+    "short": "Investment banking arm of Commercial Bank of Ethiopia focused on capital markets.",
+    "overview": "CBE Capital provides underwriting, advisory, and capital markets services as Ethiopia builds its securities market.",
+    "licenseStatus": "Active",
+    "aims": "Support issuances, advise state-owned enterprises and facilitate listings on the Ethiopian Securities Exchange.",
+    "numbers": { "paidUpCapital": "TBD", "branches": "Headquarters" }
+  },
+  {
+    "id": "ethio-fidelity",
+    "name": "Ethio Fidelity Securities S.C.",
+    "type": "Securities Dealer",
+    "licensedDate": "2025-03-21",
+    "short": "Securities dealer preparing for trading membership with ESX.",
+    "overview": "Ethio Fidelity will act as a securities dealer and trading member when ESX opens, facilitating market access.",
+    "licenseStatus": "Active",
+    "aims": "Market making and secondary market support.",
+    "numbers": { "paidUpCapital": "TBD" }
+  },
+  {
+    "id": "hst-advisors",
+    "name": "HST Investment Advisors P.L.C.",
+    "type": "Investment Adviser",
+    "licensedDate": "2025-03-21",
+    "short": "Corporate investment advisory and asset management services.",
+    "overview": "HST offers advisory services to institutional and private investors on capital market transactions.",
+    "licenseStatus": "Active",
+    "aims": "Grow the advisory ecosystem and help structure offerings for local investors.",
+    "numbers": {}
+  },
+  {
+    "id": "wegagen-capital",
+    "name": "Wegagen Capital Investment Bank S.C.",
+    "type": "Investment Bank",
+    "licensedDate": "2025-03-21",
+    "short": "Investment bank focusing on corporate finance and capital markets.",
+    "overview": "Wegagen Capital will provide underwriting and advisory for market entrants.",
+    "licenseStatus": "Active",
+    "aims": "Enable privatizations and corporate listings in Ethiopia.",
+    "numbers": {}
+  }
+]
